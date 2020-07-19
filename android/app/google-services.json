@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739009975757",
+    "firebase_url": "https://fast-chat-e75dd.firebaseio.com",
+    "project_id": "fast-chat-e75dd",
+    "storage_bucket": "fast-chat-e75dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739009975757:android:ab23d59e3ffac379d02084",
+        "android_client_info": {
+          "package_name": "co.tusharcoder18.fast_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739009975757-kcv5gmc05d1h5t4uger7o2bo4lhp351i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Zqzxn312oj5SMVS6vpTURaB-xZxM8Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739009975757-kcv5gmc05d1h5t4uger7o2bo4lhp351i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
